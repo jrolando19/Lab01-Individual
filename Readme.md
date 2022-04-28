@@ -23,6 +23,11 @@
 <h5 align="left">Ejercicios Resueltos</h5>
 <ul>
     <li>Crear proyecyo en GitHub: Lab01</li>
+    <li>Crear un archivo Readme.md con contenido Markup: Realizado</li>
+    <li>Agregar archivo Readme.md con git add: Realizado</li>
+    <li>Realizar primer commit: Realizado</li>
+    <li>Asociar repositorio local con el remoto: Realizado</li>
+    <li>Actualizar el repositorio remoto: Realizado</li>
     <li>Enlace:
 	<ul>
 	    <li><a href="https://github.com/jrolando19/Lab01.git">https://github.com/jrolando19/Lab01.git</a></li>
