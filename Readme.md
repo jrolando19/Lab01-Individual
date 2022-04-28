@@ -14,6 +14,21 @@
 <ul>
     <li>Git</li>
     <li>Git-Hub</li>
+</ul>
+<h5 align="left">Actividades</h5>
+<ol>
+    <li>Cree una cuenta de usuario en github: jrolando19</li>
+    <li>Configurar cuenta de estudiante: Realizado</li>
+</ol>
+<h5 align="left">Ejercicios Resueltos</h5>
+<ul>
+    <li>Crear proyecyo en GitHub: Lab01</li>
+    <li>Enlace:
+	<ul>
+	    <li><a href="https://github.com/jrolando19/Lab01.git">https://github.com/jrolando19/Lab01.git</a></li>
+	</ul>
+    </li>
+</ul>
 <p align="left">
 </p>
 
